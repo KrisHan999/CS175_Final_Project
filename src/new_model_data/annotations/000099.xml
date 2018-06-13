@@ -1,0 +1,22 @@
+<annotation>
+  <folder>images</folder>
+  <filename>000099.png</filename>
+  <segmented>0</segmented>
+  <size>
+    <width>266</width>
+    <height>189</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>hand</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+      <xmin>160</xmin>
+      <ymin>16</ymin>
+      <xmax>233</xmax>
+      <ymax>107</ymax>
+    </bndbox>
+  </object>
+</annotation>
